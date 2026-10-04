@@ -1,0 +1,52 @@
+# One short link per line.
+# An optional series title after the URL is used in the filenames.
+# Blank lines and lines starting with # are ignored.
+#
+#   https://hoyo.link/xxxxxxxx Series Title
+#
+# Fetch every link in this file:
+#   python download.py
+#
+
+# Displayed links added at 2026/10/05
+https://hoyo.link/k4b2Cvwwm Everwinter Without Mercy
+https://hoyo.link/SoTJzSTJH Sunny Summer Fontinalia
+https://hoyo.link/5wzzwcszc Truth Amongst the Pages of Purana
+https://hoyo.link/TJVFWWJzg Augured Homecoming
+https://hoyo.link/1cMAfYot9 Homeward, He Who Caught the Wind
+https://hoyo.link/H5QjKg84Z A Traveler on a Winter's Night
+https://hoyo.link/a7fOcP5k6 A Nocturne of the Far North
+https://hoyo.link/Cj9lcvs9p An Elegy for Faded Moonlight
+https://hoyo.link/6gXO9zSm0 A Dance of Snowy Tides and Hoarfrost Groves
+https://hoyo.link/9cyuJ5jqq Sunspray Summer Resort
+https://hoyo.link/291QJR0SS A Space and Time for You
+https://hoyo.link/BGiaGoiD9 Paralogism
+https://hoyo.link/fYaLsFQK4 Day of the Flame's Return
+https://hoyo.link/HlZHg6tN2 Moonlight Amidst Dreams
+https://hoyo.link/QCHHmvq4v Incandescent Ode of Resurrection
+https://hoyo.link/fW3lFBAL Tapestry of Spirit and Flame
+https://hoyo.link/1PGlFBAL The Rainbow Destined to Burn
+https://hoyo.link/cTgkFBAL Flowers Resplendent on the Sun-Scorched Sojourn
+https://hoyo.link/eWLkFBAL Summertide Scales and Tales
+https://hoyo.link/7c6jFBAL An Everlasting Dream Intertwined
+https://hoyo.link/dWmiFBAL Two Worlds Aflame, the Crimson Night Fades
+https://hoyo.link/7oyhFBAL Blades Weaving Betwixt Brocade
+https://hoyo.link/adLhFBAL Vibrant Harriers Aloft in Spring Breeze
+https://hoyo.link/0yPgFBAL Roses and Muskets
+https://hoyo.link/6MbfFBAL Masquerade of the Guilty
+https://hoyo.link/73reFBAL To the Stars Shining in the Depths
+https://hoyo.link/brAeFBAL As Light Rain Falls Without Reason
+https://hoyo.link/7dTEDBAd Duel! The Summoners' Summit!
+https://hoyo.link/5dpjCEAd A Parade of Providence
+https://hoyo.link/9cmWCBAd Windblume's Breath
+https://hoyo.link/59ZlBBAd All Senses Clear, All Existence Void
+https://hoyo.link/d568jBA6 Summer Fantasia
+
+# Hidden links added at 2026/10/05
+https://hoyo.link/6A3EBBAL Secret Summer Paradise
+https://hoyo.link/a5nCCEAd The Exquisite Night Chimes
+https://hoyo.link/f85NBBAd King Deshret and the Three Magi
+https://hoyo.link/4a7TyBA6 The Morn a Thousand Roses Brings
+https://hoyo.link/358nXBA6 Zephyr of the Violet Garden
+
+# Displayed links with cli adding
